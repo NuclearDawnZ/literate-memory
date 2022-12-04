@@ -1,0 +1,208 @@
+* Detected CPU: AMD Ryzen 5 5600X 6-Core Processor              [AuthenticAMD], F15/M1/S2, 3693.00 mhz, 36-clk 'rdtsc'
+* CPU features: RDTSC, MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, HTT
+* CPU cores/threads: 6/12
+
+Found commandline file!
+Initializing File System...
+using fs-ltx ../fsgame.ltx
+File System Ready...
+FS: 75918 files cached 98 archives, 16527Kb memory used.
+Init FileSystem 18.578953 sec
+'xrCore' build 8695, Nov 27 2022
+
+-----loading d:/games/anomaly 1.5.2/bin/..\gamedata\configs\system.ltx
+!!!DLTX ERROR Attemped to override section 'dolg_voin', which doesn't exist. Ensure that a base section with the same name is loaded first. Check this file and its DLTX mods: d:/games/anomaly 1.5.2/bin/..\gamedata\configs\system.ltx, mod file mod_system_balanced_armor_rad_res_gamma.ltx
+!!!DLTX ERROR Attemped to override section 'dolg_scientific_red', which doesn't exist. Ensure that a base section with the same name is loaded first. Check this file and its DLTX mods: d:/games/anomaly 1.5.2/bin/..\gamedata\configs\system.ltx, mod file mod_system_balanced_armor_rad_res_gamma.ltx
+-----loading d:/games/anomaly 1.5.2/bin/..\gamedata\configs\system.ltx
+!!!DLTX ERROR Attemped to override section 'dolg_voin', which doesn't exist. Ensure that a base section with the same name is loaded first. Check this file and its DLTX mods: d:/games/anomaly 1.5.2/bin/..\gamedata\configs\system.ltx, mod file mod_system_balanced_armor_rad_res_gamma.ltx
+!!!DLTX ERROR Attemped to override section 'dolg_scientific_red', which doesn't exist. Ensure that a base section with the same name is loaded first. Check this file and its DLTX mods: d:/games/anomaly 1.5.2/bin/..\gamedata\configs\system.ltx, mod file mod_system_balanced_armor_rad_res_gamma.ltx
+X-Ray Monolith v1.5.2
+gamedata: '.ds_store'
+gamedata: 'anims\alcohol.ppe'
+gamedata: 'anims\arena.anm'
+gamedata: 'anims\bas_nightvision_1.ppe'
+gamedata: 'anims\bas_nightvision_2.ppe'
+gamedata: 'anims\bas_nightvision_3.ppe'
+gamedata: 'anims\benchmarks\marsh_benchmark.anm'
+gamedata: 'anims\blur2.ppe'
+gamedata: 'anims\blur3.ppe'
+gamedata: 'anims\blur4.ppe'
+gamedata: 'anims\blur5.ppe'
+gamedata: 'anims\blur6.ppe'
+gamedata: 'anims\blur_bhs.ppe'
+gamedata: 'anims\camera_effects\actor_move\cam_shift.anm'
+gamedata: 'anims\camera_effects\actor_move\crouch_forward_long.anm'
+gamedata: 'anims\camera_effects\actor_move\crouch_forward_medium.anm'
+gamedata: 'anims\camera_effects\actor_move\crouch_forward_short.anm'
+gamedata: 'anims\camera_effects\actor_move\crouch_forward_short_alt.anm'
+gamedata: 'anims\camera_effects\actor_move\down.anm'
+gamedata: 'anims\camera_effects\actor_move\fejk.anm'
+gamedata: 'anims\camera_effects\actor_move\jump.anm'
+gamedata: 'anims\camera_effects\arena.anm'
+gamedata: 'anims\camera_effects\crouch_crp.anm'
+gamedata: 'anims\camera_effects\drunk.anm'
+gamedata: 'anims\camera_effects\earthquake.anm'
+gamedata: 'anims\camera_effects\earthquake_00.anm'
+gamedata: 'anims\camera_effects\earthquake_1.anm'
+gamedata: 'anims\camera_effects\earthquake_100.anm'
+gamedata: 'anims\camera_effects\earthquake_2.anm'
+gamedata: 'anims\camera_effects\earthquake_20.anm'
+gamedata: 'anims\camera_effects\earthquake_40.anm'
+gamedata: 'anims\camera_effects\earthquake_60.anm'
+gamedata: 'anims\camera_effects\earthquake_80.anm'
+gamedata: 'anims\camera_effects\empty.anm'
+gamedata: 'anims\camera_effects\fatigue.anm'
+gamedata: 'anims\camera_effects\fmode_crp.anm'
+gamedata: 'anims\camera_effects\fusker.anm'
+gamedata: 'anims\camera_effects\head_shot.anm'
+gamedata: 'anims\camera_effects\headlamp\headlamp.anm'
+gamedata: 'anims\camera_effects\headlamp\rifle_headlamp.anm'
+gamedata: 'anims\camera_effects\hit_front.anm'
+gamedata: 'anims\camera_effects\idle.anm'
+gamedata: 'anims\camera_effects\item_use.anm'
+gamedata: 'anims\camera_effects\item_use_fast.anm'
+gamedata: 'anims\camera_effects\item_use_slow.anm'
+gamedata: 'anims\camera_effects\items_use\antirad_hands_eat_invtrans.anm'
+gamedata: 'anims\camera_effects\items_use\antirad_use.anm'
+gamedata: 'anims\camera_effects\items_use\aptechka_hands_eat_invtrans.anm'
+gamedata: 'anims\camera_effects\items_use\aptechka_use.anm'
+gamedata: 'anims\camera_effects\items_use\banka_1_hands_eat_invtrans.anm'
+gamedata: 'anims\camera_effects\items_use\banka_use.anm'
+gamedata: 'anims\camera_effects\items_use\bint_hands_eat_alt_1_invtrans.anm'
+gamedata: 'anims\camera_effects\items_use\bint_use.anm'
+gamedata: 'anims\camera_effects\items_use\butilka_steklo_1_hands_eat_alt_1_invtrans.anm'
+gamedata: 'anims\camera_effects\items_use\butilka_steklo_use.anm'
+gamedata: 'anims\camera_effects\items_use\eat_hleb_d_use_h.anm'
+gamedata: 'anims\camera_effects\items_use\eat_kolbasa_d_use_h.anm'
+gamedata: 'anims\camera_effects\items_use\eat_rat_d_use_h.anm'
+gamedata: 'anims\camera_effects\items_use\eat_tushonka_d_use_h.anm'
+gamedata: 'anims\camera_effects\items_use\gasmask.anm'
+gamedata: 'anims\camera_effects\items_use\harvest_gather_meat_use.anm'
+gamedata: 'anims\camera_effects\items_use\harvest_lean_down_main.anm'
+gamedata: 'anims\camera_effects\items_use\harvest_lean_down_main_headbob.anm'
+gamedata: 'anims\camera_effects\items_use\harvest_skin_use.anm'
+gamedata: 'anims\camera_effects\items_use\harvest_success_hands_eat.anm'
+gamedata: 'anims\camera_effects\items_use\pickup.anm'
+gamedata: 'anims\camera_effects\items_use\tabletki_1_hands_eat_invtrans.anm'
+gamedata: 'anims\camera_effects\items_use\tabletki_use.anm'
+gamedata: 'anims\camera_effects\items_use\torch.anm'
+gamedata: 'anims\camera_effects\items_use\vodka_hands_eat_invtrans.anm'
+gamedata: 'anims\camera_effects\items_use\vodka_use.anm'
+gamedata: 'anims\camera_effects\jammed_crp.anm'
+gamedata: 'anims\camera_effects\jump.anm'
+gamedata: 'anims\camera_effects\jump_crp.anm'
+gamedata: 'anims\camera_effects\landing.anm'
+gamedata: 'anims\camera_effects\landing2.anm'
+gamedata: 'anims\camera_effects\landing_crp1.anm'
+gamedata: 'anims\camera_effects\landing_crp2.anm'
+gamedata: 'anims\camera_effects\lean_left_crp.anm'
+gamedata: 'anims\camera_effects\lean_right_crp.anm'
+gamedata: 'anims\camera_effects\move_crp.anm'
+gamedata: 'anims\camera_effects\scenario_cam\darkscape\ds2_domik_st_ht_cut_scene_1.anm'
+gamedata: 'anims\camera_effects\scenario_cam\darkscape\ds2_domik_st_ht_cut_scene_2.anm'
+gamedata: 'anims\camera_effects\scenario_cam\pripyat\pri_b35_mercs_scene_fail_ht_task_5.anm'
+gamedata: 'anims\camera_effects\scope_shake.anm'
+gamedata: 'anims\camera_effects\shell_shock.anm'
+gamedata: 'anims\camera_effects\shock.ppe'
+gamedata: 'anims\camera_effects\sprint_crp.anm'
+gamedata: 'anims\camera_effects\stand_crp.anm'
+gamedata: 'anims\camera_effects\surge_01.anm'
+gamedata: 'anims\camera_effects\surge_02.anm'
+gamedata: 'anims\camera_effects\switch\low1.anm'
+gamedata: 'anims\camera_effects\switch\low2.anm'
+gamedata: 'anims\camera_effects\switch\low3.anm'
+gamedata: 'anims\camera_effects\switch\low4.anm'
+gamedata: 'anims\camera_effects\switch\med1.anm'
+gamedata: 'anims\camera_effects\switch\med2.anm'
+gamedata: 'anims\camera_effects\switch\med3.anm'
+gamedata: 'anims\camera_effects\switch\med4.anm'
+gamedata: 'anims\camera_effects\switch\strong1.anm'
+gamedata: ... 71040 more ...
+Initializing Engine...
+Starting INPUT device...
+Loading DLL: xrRender_R4.dll
+Available render modes[1]:
+[renderer_r4]
+command line "d:\games\anomaly 1.5.2\bin\anomalydx11avx.exe" -smap2048 
+Executing config-script "user.ltx"...
+[d:/games/anomaly 1.5.2/bin/..\appdata\user.ltx] successfully loaded.
+Loading DLL: xrRender_R4.dll
+Loading DLL: xrGame.dll
+* [x-ray]: Full Memory Stats
+* [win32]: free[137434288240 K], reserved[4350216 K], committed[314952 K]
+* [ D3D ]: textures[0 K]
+* [x-ray]: process heap[79442 K]
+* [x-ray]: economy: strings[72516 K], smem[0 K]
+SOUND: OpenAL: enumerate devices...
+SOUND: OpenAL: EnumerationExtension Present
+dir[1]=D:\Games\Anomaly 1.5.2\bin\
+dir[2]=D:\Games\Anomaly 1.5.2\bin\
+dir[3]=C:\Windows\system32\
+CleanDeviceSpecifierList
+CleanDeviceSpecifierList OpenAL Soft
+devices OpenAL Soft
+SOUND: OpenAL: system  default SndDevice name is 
+SOUND: OpenAL: All available devices:
+1. OpenAL Soft, Spec Version 1.1  eax[0] efx[no] xram[no]
+Executing config-script "d:/games/anomaly 1.5.2/bin/..\gamedata\configs\default_controls.ltx"...
+[d:/games/anomaly 1.5.2/bin/..\gamedata\configs\default_controls.ltx] successfully loaded.
+Executing config-script "user.ltx"...
+Executing config-script "d:/games/anomaly 1.5.2/bin/..\gamedata\configs\rspec_default.ltx"...
+[d:/games/anomaly 1.5.2/bin/..\gamedata\configs\rspec_default.ltx] successfully loaded.
+Executing config-script "d:/games/anomaly 1.5.2/bin/..\gamedata\configs\default_controls.ltx"...
+[d:/games/anomaly 1.5.2/bin/..\gamedata\configs\default_controls.ltx] successfully loaded.
+! Unknown command:  r2_sun_l
+[d:/games/anomaly 1.5.2/bin/..\appdata\user.ltx] successfully loaded.
+SOUND: Selected device is OpenAL Soft
+* sound: EAX 2.0 extension: absent
+* sound: EAX 2.0 deferred: absent
+* sound : cache: 524296 kb, 38848 lines, 13820 bpl
+! sound: OpenAL: Can't create source. Error: Out of Memory.
+! SOUND: OpenAL: Max targets -  256
+Starting RENDER device...
+* GPU [vendor:1002]-[device:67DF]: Radeon RX 590 Series
+* CREATE: DeviceREF: 3
+*     Texture memory: 8170 M
+* GPU shading: vs(0/4.0/40), ps(0/4.0/40)
+* GPU vertex cache: unrecognized, 24
+* NVAPI is missing.
+* Starting rendering as 2-GPU.
+* DVB created: 4096K
+* DIB created: 512K
+* HWDST/PCF supported and used
+* Managed textures disabled
+!  d:/games/anomaly 1.5.2/bin/..\appdata\shaders_cache\r4\combine_1_msaa_0.ps\20481111001100010000001000000000000101101121000
+! error:  common_functions.h(29,6): warning X3205: conversion from larger type to smaller, possible loss of data
+common_functions.h(66,2): warning X3206: implicit truncation of vector type
+common_functions.h(71,49): warning X3206: implicit truncation of vector type
+common_functions.h(103,2): warning X3206: implicit truncation of vector type
+gbuffer_stage.h(123,24): warning X3206: 'Load': implicit truncation of vector type
+gbuffer_stage.h(124,23): warning X3206: 'Load': implicit truncation of vector type
+pbr_brdf.h(183,15): warning X3206: implicit truncation of vector type
+pbr_brdf.h(184,15): warning X3206: implicit truncation of vector type
+pbr_brdf.h(185,15): warning X3206: implicit truncation of vector type
+pbr_brdf.h(193,9): warning X3206: implicit truncation of vector type
+pbr_brdf.h(194,7): warning X3206: implicit truncation of vector type
+hmodel.h(31,14): warning X3206: 'mul': implicit truncation of vector type
+hmodel.h(36,17): warning X3206: 'mul': implicit truncation of vector type
+night_vision.h(360,37): warning X3206: 'Load': implicit truncation of vector type
+night_vision.h(379,30): warning X3206: 'Load': implicit truncation of vector type
+screenspace_common.h(80,21): warning X3206: 'Load': implicit truncation of vector type
+screenspace_common.h(89,21): warning X3206: 'Load': implicit truncation of vector type
+screenspace_common.h(134,29): warning X3206: 'Load': implicit truncation of vector type
+screenspace_common.h(135,24): warning X3206: 'Load': implicit truncation of vector type
+screenspace_common.h(161,26): warning X3206: 'Load': implicit truncation of vector type
+screenspace_common.h(171,25): warning X3206: 'Load': implicit truncation of vector type
+screenspace_common.h(172,29): warning X3206: 'Load': implicit truncation of vector type
+screenspace_common.h(183,14): warning X3206: 'mul': implicit truncation of vector type
+screenspace_common.h(191,3): warning X3206: 'hmodel': implicit truncation of vector type
+screenspace_reflections.h(66,10): warning X3206: implicit truncation of vector type
+screenspace_reflections.h(143,16): warning X3206: 'mul': implicit truncation of vector type
+screenspace_reflections.h(144,20): warning X3206: 'mul': implicit truncation of vector type
+combine_1.ps(79,21): warning X3206: 'gbuffer_load_data': implicit truncation of vector type [2]
+combine_1.ps(89,47): warning X3206: implicit truncation of vector type
+combine_1.ps(89,29): warning X3206: 'Load': implicit truncation of vector type
+combine_1.ps(106,60): warning X3206: 'plight_infinity': implicit truncation of vector type
+combine_1.ps(106,58): warning X3206: implicit truncation of vector type
+combine_1.ps(106,4): warning X3206: implicit truncation of vector type
+combine_1.ps(106,4): error X3017: cannot implicitly convert from 'const float3' to 'float4'
